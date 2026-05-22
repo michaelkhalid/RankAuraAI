@@ -1,0 +1,6 @@
+{
+  "name": "RankAura AI",
+  "description": "A beginner-friendly local SEO and keyword research tool optimized for Karachi, Lahore, Islamabad, and all of Pakistan, generating search volume, keyword difficulty, and blog topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+# robots.txt directive standard configuration for RankAura AI Pakistan Local SEO Tool
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /login/
+
+# Link to XML Sitemap index
+Sitemap: https://rankaura.pk/sitemap.xml
